@@ -1,5 +1,0 @@
-[build]
-  command = "bash build.sh"
-  publish = "public"
-
-[build.environment]
