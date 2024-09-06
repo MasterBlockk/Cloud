@@ -19,5 +19,5 @@ const server = http.createServer((req, res) => {
 
 // Écouter sur le port 8080
 server.listen(8080, () => {
-  console.log('Serveur proxy en écoute sur http://127.0.0.1:8080');
+  console.log('Serveur proxy en écoute sur https://jaimelecaca.netlify.app:8080');
 });
