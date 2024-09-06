@@ -1,1 +1,1 @@
-window.location.href = "https://www.instagram.fr";
+window.location.href = "https://instagram.com";
